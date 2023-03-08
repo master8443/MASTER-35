@@ -1,0 +1,1 @@
+vless://d0576d5f-5add-4fa4-bddc-82f83e9bf960@ip.onemaster.sbs:2086?type=ws&security=tls&path=%2F&host=ger2.onemaster.sbs&sni=ip.onemaster.sbs&fp=chrome#M%20A%20S%20T%20E%20R%202-MST%20%7C%2035
